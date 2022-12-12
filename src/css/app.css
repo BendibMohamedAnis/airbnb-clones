@@ -1,0 +1,47 @@
+html,body{
+    background-color:rgb(252, 252, 252) ;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.navbar{
+    padding:1%;
+    box-shadow: 0px 0.9px 6.4px rgb(0, 0, 0.1);
+    display: flex;
+    background-color: white;
+ 
+}
+#logo{
+    width: 40px;
+    height: 50px;
+}
+#logo-title{
+    color:#FF5A5F;
+    
+    margin-left: 1%;
+}
+
+.main-content{
+    padding: 0.4%;
+}
+
+.main-img{
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    scale: 0.8;
+}
+#grid-img{
+    max-width: 100%;
+}
+
+#title{
+    
+    text-align: center;
+}
+#text{
+   
+    color:grey;
+    text-align: center;
+}
