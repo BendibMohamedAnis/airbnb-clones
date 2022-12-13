@@ -37,17 +37,20 @@
     list-style: none;
     word-spacing: 1px;
     padding-left:2%;
+    font-size: small;
     
 }
 
 .price{
     display: flex;
     list-style: none;
-    word-spacing: 2px;
+    word-spacing: 1px;
     padding-left:2%;
+    font-size:14px;
 }
 .price >li{
     color:rgb(78, 78, 78);
+    margin-right: 3px;
 }
 
 .card > small{

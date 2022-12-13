@@ -3,100 +3,100 @@ export default  [
         name:"Malika",
         price:"100",
         rating:"5",
-        person:"../assets/person.png"
+        person:"person"
     },
     {
         name:"Wom",
         price:"50",
         rating:"2",
-        person:"../assets/person.png"
+        person:"2"
     },
     {
         name:"Jonas",
         price:"200",
         rating:"4",
-        person:"../assets/person.png"
+        person:"3"
     },
     {
         name:"Yett",
         price:"55",
         rating:"1",
-        person:"../assets/person.png"
+        person:"4"
     },
     {
         name:"HeeeHaw",
         price:"20",
         rating:"4",
-        person:"../assets/person.png"
+        person:"5"
     },
     {
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"7"
     }
     ,
     {
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"8"
     }
     ,
     {
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"9"
     }
     ,
     {
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"10"
     }
     ,
     {
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"2"
     }
     ,
     {
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"5"
     }
     ,
     {
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"3"
     }
     ,
     {
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"1"
     }
     ,
     {
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"8"
     }
     ,
     {
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"7"
     }
 
     ,
@@ -104,7 +104,7 @@ export default  [
         name:"Reee",
         price:"150",
         rating:"4",
-        person:"../assets/person.png"
+        person:"10"
     }
 
 ]
