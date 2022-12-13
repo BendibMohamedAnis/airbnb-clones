@@ -8,7 +8,7 @@ import './css/app.css';
 function App() {
 
     let  cardDataP =  cardData.map((cardData)=>{
-      return <Card name={cardData.name} price={cardData.price} rating={cardData.rating} />
+      return <Card name={cardData.name} price={cardData.price} rating={cardData.rating} personn={cardData.person}/>
     }    
   )
 

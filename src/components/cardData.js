@@ -1,33 +1,110 @@
-export default [
+export default  [
     {
         name:"Malika",
         price:"100",
-        rating:"5"
+        rating:"5",
+        person:"../assets/person.png"
     },
     {
         name:"Wom",
         price:"50",
-        rating:"2"
+        rating:"2",
+        person:"../assets/person.png"
     },
     {
         name:"Jonas",
         price:"200",
-        rating:"4"
+        rating:"4",
+        person:"../assets/person.png"
     },
     {
         name:"Yett",
         price:"55",
-        rating:"1"
+        rating:"1",
+        person:"../assets/person.png"
     },
     {
         name:"HeeeHaw",
         price:"20",
-        rating:"4"
+        rating:"4",
+        person:"../assets/person.png"
     },
     {
         name:"Reee",
         price:"150",
-        rating:"4"
+        rating:"4",
+        person:"../assets/person.png"
+    }
+    ,
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4",
+        person:"../assets/person.png"
+    }
+    ,
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4",
+        person:"../assets/person.png"
+    }
+    ,
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4",
+        person:"../assets/person.png"
+    }
+    ,
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4",
+        person:"../assets/person.png"
+    }
+    ,
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4",
+        person:"../assets/person.png"
+    }
+    ,
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4",
+        person:"../assets/person.png"
+    }
+    ,
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4",
+        person:"../assets/person.png"
+    }
+    ,
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4",
+        person:"../assets/person.png"
+    }
+    ,
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4",
+        person:"../assets/person.png"
+    }
+
+    ,
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4",
+        person:"../assets/person.png"
     }
 
 ]

@@ -1,10 +1,6 @@
 import React from "react"
 import '../css/card.css';
 
-const v=["jhob","lina","leeet"];
-
-
-
 export default function Card(props){
    
    
@@ -13,9 +9,9 @@ export default function Card(props){
     return(
         <div className="card">
             
-            <img src={require("../assets/person.png")} id="person-img"/>
+            <img src={require("../assets/person.png")} id="person-img" alt="person"/>
             <ul className="rating">
-                <li><img src={require("../assets/star.png")} id="star-img"/></li>
+                <li><img src={require("../assets/star.png")} id="star-img" alt="star"/></li>
                 <li>{props.rating}.0 </li>
                 <li>(6) - USA </li>
             </ul>
