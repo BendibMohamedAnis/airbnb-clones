@@ -44,6 +44,7 @@ a{
 
 .main-content{
     padding: 0.4%;
+ 
 }
 
 .main-img{
@@ -61,7 +62,9 @@ a{
     text-align: center;
 }
 #text{
-   
+
     color:grey;
     text-align: center;
+    width:70%;
+    margin: 20px auto;
 }
