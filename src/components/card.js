@@ -1,9 +1,13 @@
 import React from "react"
 import '../css/card.css';
 
-export default function Card({price,name}){
-    const date = new Date()
-    const dateH= date.getHours()
+const v=["jhob","lina","leeet"];
+
+
+
+export default function Card(props){
+   
+   
 
 
     return(
@@ -12,13 +16,13 @@ export default function Card({price,name}){
             <img src={require("../assets/person.png")} id="person-img"/>
             <ul className="rating">
                 <li><img src={require("../assets/star.png")} id="star-img"/></li>
-                <li>5.0</li>
+                <li>{props.rating}.0 </li>
                 <li>(6) - USA </li>
             </ul>
-            <small>Life lessons with {name}</small>
+            <small>Life lessons with {props.name}</small>
             <ul className="price">
-                <li id="price">From ${price}</li>
-                <li> /person</li>
+                <li id="price">From ${props.price}</li>
+                <li> / person</li>
             </ul>
         </div>
 

@@ -1,0 +1,33 @@
+export default [
+    {
+        name:"Malika",
+        price:"100",
+        rating:"5"
+    },
+    {
+        name:"Wom",
+        price:"50",
+        rating:"2"
+    },
+    {
+        name:"Jonas",
+        price:"200",
+        rating:"4"
+    },
+    {
+        name:"Yett",
+        price:"55",
+        rating:"1"
+    },
+    {
+        name:"HeeeHaw",
+        price:"20",
+        rating:"4"
+    },
+    {
+        name:"Reee",
+        price:"150",
+        rating:"4"
+    }
+
+]
