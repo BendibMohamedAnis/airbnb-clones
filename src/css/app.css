@@ -21,6 +21,26 @@ html,body{
     
     margin-left: 1%;
 }
+.nav-list{
+    list-style: none;
+    display: flex;
+    color:grey;
+    gap:30px;
+    margin-right: 10px;
+    margin-left:auto;
+    margin-top: 20px;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+
+
+
 
 .main-content{
     padding: 0.4%;
