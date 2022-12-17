@@ -15,10 +15,6 @@ This project was made  as part of a training challenge to learn ReactJS for educ
 
 
 
-
-![screencapture-localhost-3000-home-2022-12-16-23_23_25](https://user-images.githubusercontent.com/46926963/208199132-9704e584-71e6-4978-84e1-9ad8bf3ecdd6.png)
-
-
 ## Available Scripts
 
 In the project directory, you can run:
