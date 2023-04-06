@@ -1,4 +1,4 @@
-<h1 align="left" style="vertical-align: middle;"><img src="https://user-images.githubusercontent.com/46926963/230435169-d400528d-c6dd-43f4-9ff9-6d3e327bcf07.png" width="50" height="50" alt="Logo" style="margin-right: 10px;vertical-align: middle;">AirBnB Clone website </h1>
+<h1 align="left" style="vertical-align: middle;"><img src="https://user-images.githubusercontent.com/46926963/230435169-d400528d-c6dd-43f4-9ff9-6d3e327bcf07.png" width="50" height="50" alt="Logo" style="margin-right: 10px;vertical-align: middle;">AirBnB Clone  </h1>
 
 The AirBnB Clone website project was created as a personal challenge to expand my knowledge and skills in ReactJS. The aim of this project was to gain practical experience and develop my abilities in web development. The project allowed me to learn about important concepts in ReactJS such as component architecture, state management, and routing. Additionally, the project was a great opportunity for me to hone my skills in HTML, CSS, and JavaScript, ReactJS. While the project was challenging, it was also a fun and rewarding experience that allowed me to develop my skills as a web developer.
 
