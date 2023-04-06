@@ -1,4 +1,4 @@
-# AirBnB Clone website 
+<h1 align="left" style="vertical-align: middle;"><img src="https://user-images.githubusercontent.com/46926963/230435169-d400528d-c6dd-43f4-9ff9-6d3e327bcf07.png" width="50" height="50" alt="Logo" style="margin-right: 10px;vertical-align: middle;">AirBnB Clone website </h1>
 
 This project was made  as part of a training challenge to learn ReactJS for educational purposes.
 
